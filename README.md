@@ -1,5 +1,4 @@
 # Module-4-Interesting-Project-Data-Sources
-Interesting Datasets to explore
 
 ## Job Quality Dataset - 
 This dataset is about measuring and assessing quality of jobs. The OECD has developed a framework to measure and assess the quality 
